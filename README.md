@@ -29,6 +29,6 @@ newfile=input("Enter a name for new file: ")
 copy(fname,newfile)
 ```
 ### OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/Gokkul-M/copy-file/assets/144870543/6da85713-ac54-45ce-bb4a-df99084942f1)
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
